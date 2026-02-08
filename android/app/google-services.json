@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865183756987",
+    "project_id": "flutter-firebase-4b3b1",
+    "storage_bucket": "flutter-firebase-4b3b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865183756987:android:5670d986449eb632636f9e",
+        "android_client_info": {
+          "package_name": "com.manishsoft.flutter_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM8ksLW4E4shk2TBrh1KV_oLo4JEoKe1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
