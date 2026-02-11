@@ -32,7 +32,7 @@ void main() {
 
   group('App Widget Tests', () {
     testWidgets('MyApp renders correctly', (WidgetTester tester) async {
-      // Create a mock FCM service
+      // Create a mock FCM
       final mockFcmService = MockFcmService();
 
       // Build our app and trigger a frame
